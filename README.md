@@ -1,5 +1,7 @@
 # Fingerprint Spoof Detection System Report
 
+![Fingerprint](pic.png)
+
 ## Model
 
 This task involved building a fingerprint spoof detection system that would help differentiate and detect a real and a fake fingerprint.
